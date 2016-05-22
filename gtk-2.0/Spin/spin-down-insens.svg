@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8943"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="25"
+   height="25"
+   viewBox="0 0 25 25"
+   sodipodi:docname="spin-down-insens.svg">
+  <metadata
+     id="metadata8949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8947">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4137">
+      <stop
+         style="stop-color:#63636e;stop-opacity:1;"
+         offset="0"
+         id="stop4139" />
+      <stop
+         style="stop-color:#1e1e21;stop-opacity:1"
+         offset="1"
+         id="stop4141" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4137"
+       id="linearGradient4143"
+       x1="13.104685"
+       y1="25"
+       x2="13.104685"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview8945"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="4.72"
+     inkscape:cx="-32.000534"
+     inkscape:cy="21.336355"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8943"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="25,25"
+       orientation="0,1"
+       id="guide4135" />
+  </sodipodi:namedview>
+  <rect
+     ry="1.01"
+     rx="1.01"
+     y="-24.984961"
+     x="0.014731053"
+     height="49.966473"
+     width="24.966782"
+     id="rect7549"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:url(#linearGradient4143);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.03697466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  <path
+     sodipodi:nodetypes="ccssssccc"
+     inkscape:connector-curvature="0"
+     id="path7551"
+     d="m 1.7882909,-0.00186629 -1.00923998,-5.2e-4 -5.3e-4,23.20950029 c -10e-6,0.55954 0.45022998,1.00977 1.00976998,1.00977 l 21.4179701,0 c 0.55954,0 1.01172,-0.45023 1.01172,-1.00977 l -7.6e-4,-23.20950029 -1.01096,5.2e-4 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:0.0955056;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  <path
+     sodipodi:nodetypes="ssccccsss"
+     inkscape:connector-curvature="0"
+     id="path7553"
+     d="m 1.7882909,-24.220615 c -0.55954,0 -1.00976998,0.45022 -1.00976998,1.00976 l 5.3e-4,23.20846871 1.00923998,5.2e-4 21.4179701,0 1.01096,-5.2e-4 7.6e-4,-23.20846871 c 2e-5,-0.55954 -0.45218,-1.00976 -1.01172,-1.00976 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:0.0955056;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+</svg>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NewMii
+Comment=A dark flat theme made for developpers that stares alot at the screen for an extended amout of time
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NewMii
+MetacityTheme=NewMii
+ButtonLayout=:minimize,maximize,close

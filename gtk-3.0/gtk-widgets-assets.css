@@ -1,0 +1,143 @@
+/*******************
+* check and radio *
+*******************/
+/* draw regular check and radio items using our assets */
+check {
+	-gtk-icon-source: url("assets/check_not_normal.svg");
+}
+
+check:hover {
+	-gtk-icon-source: url("assets/check_not_prelight.svg");
+}
+
+ check:active {
+	-gtk-icon-source: url("assets/check_not_pressed.svg");
+}
+
+ check:disabled {
+	-gtk-icon-source: url("assets/check_not_insens.svg");
+}
+
+ check:checked {
+	-gtk-icon-source: url("assets/check_yes_normal.svg");
+}
+
+ check:checked:disabled {
+	-gtk-icon-source: url("assets/check_yes_insens.svg");
+}
+
+ check:checked:hover {
+	-gtk-icon-source: url("assets/check_yes_prelight.svg");
+}
+
+ check:checked:active {
+	-gtk-icon-source: url("assets/check_yes_pressed.svg");
+}
+
+
+ check:indeterminate {
+	-gtk-icon-source: url("assets/check_nall_normal.svg");
+}
+
+ check:indeterminate:hover {
+	-gtk-icon-source: url("assets/check_nall_prelight.svg");
+}
+
+ check:indeterminate:active {
+	-gtk-icon-source: url("assets/check_nall_pressed.svg");
+}
+
+ check:indeterminate:disabled {
+	-gtk-icon-source: url("assets/check_nall_insens.svg");
+}
+
+ radio {
+	-gtk-icon-source: url("assets/opt_not_normal.svg");
+}
+
+ radio:hover {
+	-gtk-icon-source: url("assets/opt_not_prelight.svg");
+}
+
+ radio:active {
+	-gtk-icon-source: url("assets/opt_not_pressed.svg");
+}
+
+ radio:disabled {
+	-gtk-icon-source: url("assets/opt_not_insens.svg");
+}
+
+ radio:checked {
+	-gtk-icon-source: url("assets/opt_yes_normal.svg");
+}
+
+ radio:checked:disabled {
+	-gtk-icon-source: url("assets/opt_yes_insens.svg");
+}
+
+ radio:checked:hover {
+	-gtk-icon-source: url("assets/opt_yes_prelight.svg");
+}
+
+ radio:checked:active {
+	-gtk-icon-source: url("assets/opt_yes_pressed.svg");
+}
+
+
+ radio:indeterminate {
+	-gtk-icon-source: url("assets/opt_nall_normal.svg");
+}
+
+ radio:indeterminate:hover {
+	-gtk-icon-source: url("assets/opt_nall_prelight.svg");
+}
+
+ radio:indeterminate:active {
+	-gtk-icon-source: url("assets/opt_nall_pressed.svg");
+}
+
+ radio:indeterminate:disabled {
+	-gtk-icon-source: url("assets/opt_nall_insens.svg");
+}
+
+ menuitem check {
+	-gtk-icon-source: none;
+}
+
+ menuitem check:checked:hover {
+	-gtk-icon-source: url("assets/check_yes_prelight_m.svg");
+}
+
+ menuitem check:checked {
+	-gtk-icon-source: url("assets/check_yes_normal_m.svg");
+}
+
+ menuitem check:checked:disabled {
+	-gtk-icon-source: url("assets/check_yes_insens_m.svg");
+}
+
+ menuitem radio {
+	-gtk-icon-source: none;
+}
+
+ menuitem radio:checked:hover {
+	-gtk-icon-source: url("assets/opt_yes_prelight_m.svg");
+}
+
+ menuitem radio:checked {
+	-gtk-icon-source: url("assets/opt_yes_normal_m.svg");
+}
+
+ menuitem radio:checked:disabled {
+	-gtk-icon-source: url("assets/opt_yes_insens_m.svg");
+}
+
+
+
+GtkIconView.content-view.cell check {
+	-gtk-icon-source: url("assets/grid-selection-unchecked-dark.svg");
+}
+
+GtkIconView.content-view.cell check:active {
+	-gtk-icon-source: url("assets/grid-selection-checked-dark.svg");
+}

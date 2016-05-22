@@ -1,0 +1,45 @@
+style"thunarStyl"
+{
+  GtkPaned::handle_size				= 1
+  text[NORMAL] = "#FFFFFF"
+  text[SELECTED] = "#000000"
+  text[ACTIVE] = "#000000"
+  text[PRELIGHT] = "#000000"
+		
+engine "pixmap"{
+image 
+	{
+	function			= FLAT_BOX
+	recolorable			= TRUE
+	state				= NORMAL
+	file        		= "Menu-Menubar/menubar-blackV.svg"
+	border      		= { 10, 10, 10, 10 }
+	stretch         	= TRUE
+	}
+image 
+	{
+	function			= FLAT_BOX
+	recolorable			= TRUE
+	state				= SELECTED
+	file        		= "Menu-Menubar/menubar-item.png"
+	border      		= { 2, 2, 2, 2 }
+	stretch         	= TRUE
+	}
+image 
+	{
+	function			= FLAT_BOX
+	recolorable			= TRUE
+	state				= PRELIGHT
+	file        		= "Menu-Menubar/menuitem.png"
+	border      		= { 10, 10, 10, 10 }
+	stretch         	= TRUE
+	}
+}
+
+
+}
+
+class "ThunarShortcutsView" style "thunarStyl"
+class "FmPlacesView" style "thunarStyl"
+widget_class "FmSidePane.FmPlacesView.*" style "thunarStyl"
+
