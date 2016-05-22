@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4285"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="12.5"
+   height="12.5"
+   viewBox="0 0 12.5 12.5"
+   sodipodi:docname="checklight.svg">
+  <metadata
+     id="metadata4291">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4289">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4297">
+      <stop
+         style="stop-color:#1793d1;stop-opacity:1"
+         offset="0"
+         id="stop4299" />
+      <stop
+         id="stop4305"
+         offset="0.10499552"
+         style="stop-color:#1793d1;stop-opacity:0.50196081" />
+      <stop
+         style="stop-color:#1793d1;stop-opacity:0"
+         offset="1"
+         id="stop4301" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4297"
+       id="linearGradient4303"
+       x1="0"
+       y1="6.25"
+       x2="3.9049952"
+       y2="6.25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.77567646,-12.5,1.4020222)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4450"
+       x="-0.13735183"
+       width="1.2747037"
+       y="-0.10654059"
+       height="1.2130812">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.55489891"
+         id="feGaussianBlur4452" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="800"
+     inkscape:window-height="843"
+     id="namedview4287"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="16.404877"
+     inkscape:cx="7.2498258"
+     inkscape:cy="7.9461331"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4285" />
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:url(#linearGradient4303);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4450);enable-background:accumulate"
+     id="rect4295"
+     width="12.5"
+     height="9.6959562"
+     x="-12.5"
+     y="1.4020221"
+     transform="matrix(0,-0.93624041,1.0091597,0,-0.05724782,0.39849745)" />
+</svg>

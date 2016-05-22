@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8943"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="25"
+   height="25"
+   viewBox="0 0 25 25"
+   sodipodi:docname="spin-down-pressed.svg">
+  <metadata
+     id="metadata8949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8947">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4753-2"
+       id="linearGradient7539"
+       gradientUnits="userSpaceOnUse"
+       x1="481.19666"
+       y1="467.23132"
+       x2="481.19666"
+       y2="402.20276"
+       gradientTransform="matrix(1.0664055,0,0,-1.032335,-501.70114,444.31332)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4753-2">
+      <stop
+         id="stop4757-7"
+         offset="0"
+         style="stop-color:#1793d1;stop-opacity:1" />
+      <stop
+         id="stop4755-5"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.09411765" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1.0664055,0,0,1.032335,-501.70114,-444.31704)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4753-2"
+       id="linearGradient7533"
+       x1="481.19666"
+       y1="467.23132"
+       x2="481.19666"
+       y2="402.20276"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview8945"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="16.176424"
+     inkscape:cx="3.4134273"
+     inkscape:cy="7.3100243"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8943" />
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient7533);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 1.0808546,-25.003726 c -0.59669653,0 -1.07682433,0.464778 -1.07682433,1.042411 l 5.652e-4,23.95891531 1.07625913,5.3681e-4 22.8402414,0 1.078094,-5.3681e-4 L 25,-23.961315 c 2.1e-5,-0.577633 -0.482207,-1.042411 -1.078904,-1.042411 z"
+     id="path7535"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccccsss" />
+  <path
+     sodipodi:nodetypes="ssccccsss"
+     inkscape:connector-curvature="0"
+     id="path6808"
+     d="M 1.0808546,25 C 0.48415807,25 0.00403027,24.535222 0.00403027,23.957589 l 5.652e-4,-23.95891506 1.07625913,-5.3682e-4 22.8402414,0 1.078094,5.3682e-4 L 25,23.957589 C 25.000021,24.535222 24.517793,25 23.921096,25 Z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient7539);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+</svg>
