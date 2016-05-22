@@ -132,12 +132,10 @@ check:hover {
 	-gtk-icon-source: url("assets/opt_yes_insens_m.svg");
 }
 
-
-
-GtkIconView.content-view.cell check {
+iconview.content-view.cell check {
 	-gtk-icon-source: url("assets/grid-selection-unchecked-dark.svg");
 }
 
-GtkIconView.content-view.cell check:active {
+iconview.content-view.cell check:active {
 	-gtk-icon-source: url("assets/grid-selection-checked-dark.svg");
 }
