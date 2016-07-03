@@ -2,6 +2,12 @@
 * check and radio *
 *******************/
 /* draw regular check and radio items using our assets */
+
+arrow, check, radio {
+	min-height: 16px;
+	min-width: 16px;
+}
+
 check {
 	-gtk-icon-source: url("assets/check_not_normal.svg");
 }
@@ -100,7 +106,7 @@ check:hover {
 	-gtk-icon-source: url("assets/opt_nall_insens.svg");
 }
 
- menuitem check {
+menuitem check, menuitem check:hover, menuitem radio, menuitem radio:hover, menuitem check:disabled, menuitem radio:disabled{
 	-gtk-icon-source: none;
 }
 
@@ -130,6 +136,18 @@ check:hover {
 
  menuitem radio:checked:disabled {
 	-gtk-icon-source: url("assets/opt_yes_insens_m.svg");
+}
+
+menuitem radio:indeterminate:hover, menuitem check:indeterminate:hover {
+	-gtk-icon-source: url("assets/check_nall_prelight_m.svg");
+}
+
+menuitem radio:indeterminate, menuitem check:indeterminate {
+	-gtk-icon-source: url("assets/check_nall_normal_m.svg");
+}
+
+menuitem radio:indeterminate:disabled, menuitem check:indeterminate:disabled {
+	-gtk-icon-source: url("assets/check_nall_insens_m.svg");
 }
 
 iconview.content-view.cell check {

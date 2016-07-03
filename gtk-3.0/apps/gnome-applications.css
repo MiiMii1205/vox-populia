@@ -22,8 +22,8 @@ PanelSeparator {
 }
 
 .gnome-panel-menu-bar,
-PanelApplet > GtkMenuBar.menubar,
-PanelApplet > GtkMenuBar.menubar.menuitem,
+PanelApplet > menubar,
+PanelApplet > menubar.menuitem,
 PanelMenuBar.menubar,
 PanelMenuBar.menubar.menuitem {
     -PanelMenuBar-icon-visible: true;
@@ -157,7 +157,7 @@ VteTerminal {
     color: @osd_fg;
 }
 
-TerminalWindow GtkNotebook.notebook {
+TerminalWindow GtkNotebook notebook {
     border-right-width: 0;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -168,25 +168,25 @@ TerminalWindow scrollbar.trough {
     background-color: @osd_base;
 }
 
-TerminalWindow .scrollbar button,
-TerminalWindow .scrollbar button:active,
-TerminalWindow .scrollbar button:active:hover {
+TerminalWindow scrollbar button,
+TerminalWindow scrollbar button:active,
+TerminalWindow scrollbar button:active:hover {
     color: shade(@osd_base, 0.6);
 }
 
-TerminalWindow scrollbar.slider {
+TerminalWindow scrollbar slider {
     border-color: mix(shade(@osd_base, 0.87), @osd_fg, 0.21);
     background-color: mix(@osd_base, @osd_fg, 0.21);
 }
 
-TerminalWindow scrollbar.slider:hover,
-TerminalWindow scrollbar.slider.vertical:hover {
+TerminalWindow scrollbar slider:hover,
+TerminalWindow scrollbar.vertical slider:hover {
     border-color: mix(shade(@osd_base, 0.87), @osd_fg, 0.31);
     background-color: mix(@osd_base, @osd_fg, 0.31);
 }
 
-TerminalWindow scrollbar.slider:active,
-TerminalWindow scrollbar.slider.vertical:active {
+TerminalWindow scrollbar slider:active,
+TerminalWindow scrollbar.vertical slider:active {
     border-color: shade(@theme_selected_bg_color, 0.9);
     background-color: @theme_selected_bg_color;
 }

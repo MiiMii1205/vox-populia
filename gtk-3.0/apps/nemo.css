@@ -55,7 +55,7 @@ NemoPathbarButton:active:hover {
 /*********************************
  * sidebar disk space indicators *
  *********************************/
-NemoPlacesTreeView {
+.nemo-place-sidebar treeview {
     -NemoPlacesTreeView-disk-full-bg-color: shade(@toolbar_bg_color, 0.8);
     -NemoPlacesTreeView-disk-full-fg-color: @theme_selected_bg_color;
     -NemoPlacesTreeView-disk-full-bar-width: 1px;
@@ -64,13 +64,13 @@ NemoPlacesTreeView {
     -NemoPlacesTreeView-disk-full-max-length: 70px;
 }
 
-NemoPlacesTreeView:selected {
+.nemo-place-sidebar treeview:selected {
     -NemoPlacesTreeView-disk-full-bg-color: @theme_selected_fg_color;
     -NemoPlacesTreeView-disk-full-fg-color: shade(@theme_selected_bg_color, 1.4);
 }
 
-NemoPlacesTreeView:hover {
+.nemo-place-sidebar treeview:hover {
 }
 
-NemoPlacesTreeView:selected:hover {
+.nemo-place-sidebar treeview:selected:hover {
 }
